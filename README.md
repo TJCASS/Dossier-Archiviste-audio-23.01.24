@@ -2,7 +2,7 @@
 _Archiviste audiovisuel & Technicien audio En Suisse Romande._ <br>
 
 <div id="webaddress">
-<a href="ThomasJosephCass@gmail.com">ThomasJosephCass@gmail.com</a>
+<a href="mailto:ThomasJosephCass@gmail.com">ThomasJosephCass@gmail.com</a>
 | <a href="https://thomasjosephcass.wixsite.com/film">Site web</a>
 | <a href="https://www.linkedin.com/in/thomas-cass/">Linkedin</a>
 </div>
