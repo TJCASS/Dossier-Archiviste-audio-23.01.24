@@ -4,9 +4,9 @@ _Archiviste audiovisuel & Technicien audio En Suisse Romande._ <br>
 <div id="webaddress">
 <a href="mailto:ThomasJosephCass@gmail.com">ThomasJosephCass@gmail.com</a>
 | <a href="https://thomasjosephcass.wixsite.com/film">Site web</a>
-| <a href="https://www.linkedin.com/in/thomas-cass/">Linkedin</a>
+| <a href="https://www.linkedin.com/in/thomas-cass/">Linkedin</a>|
+  <a href="https://vimeo.com/thomascass/)">Vimeo</a>
 </div>
-[Email](mailto:ThomasJosephCass@gmail.com) / [Website](https://thomasjosephcass.wixsite.com/film/) / [LinkedIn](https://www.linkedin.com/in/thomas-cass//) / [Vimeo](https://vimeo.com/thomascass/) /
 
 ## Experience
 
