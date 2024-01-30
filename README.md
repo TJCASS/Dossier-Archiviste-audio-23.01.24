@@ -10,9 +10,10 @@ _Archiviste audiovisuel & Technicien audio En Suisse Romande._ <br>
 
 ## Experience
 
-**Interactive Media Designer** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(Mars 2021 - Dec 2023)_ <br>
+**Interactive Media Designer CDD** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(Mars 2021 - Dec 2023)_ <br>
 summary.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
+  - Archivage audiovisuelle de 24 cassettes VHS 
+  - Réalisation de mini-documentaires sur l’agriculture durable
   - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 <br><br>
