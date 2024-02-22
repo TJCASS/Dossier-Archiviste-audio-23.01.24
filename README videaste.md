@@ -33,13 +33,13 @@ Archivage & Diffusion ..........................................................
 - Rapidité d’apprentissage
 
  ## Logiciels
-Montage
-Premiere Pro - Davinci Resolve
-Son
+#### Montage
+Premiere Pro - Davinci Resolve - Kdenlive
+#### Son
 Ableton live - Adobe Auditon - Logic
-Production
+#### Production
 Trello - Asana - Studiobinder - Office
-VFX
+#### VFX
 After Effects - 3Ds Max
 
 ## Expériences proffesionelles
@@ -75,7 +75,7 @@ Du travail audiovisuel.
 	• Thèse : Méta analyse de la radicalisation politique sur des plateformes
 	vidéo en ligne. <br>
 	• Apprentissage des flux de travail complets du film, de la télévision et
-	De la production audio. <br>
+	de la production audio. <br>
 	• Développement des compétences en photographie, graphisme et en
 	création de sites Web. <br>
 
@@ -83,8 +83,8 @@ Du travail audiovisuel.
  ##  Formation Continue
 
 [Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
-	• Cours de codage de jeux video C# <br>
-	• realisation d'un jeux en equipe <br>
+	• Cours de codage de C#  <br>
+	• Realisation d'un jeux en equipe <br>
 [CPI Frima Formations - **Dessin Technique 3D**](https://frima-formations.ch/) - Fribourg, Suisse _(juillet 2023)_ <br>
 	Apprentissage des bases la 3D <br> 
 		• 3DS Max <br>
