@@ -65,18 +65,18 @@ création de sites Web. <br>
 ## Compétences techniques
 
 #### Pré-production
-- Conception - Développement - Planification - Scout
+  * Conception - Développement - Planification - Scout
 #### Production AV
-- Prise de son : Boom — micro-cravate - Monitoring - Voix off - Sound-design
+  * Prise de son : Boom — micro-cravate - Monitoring - Voix off - Sound-design
 #### Post-production
-- Audio : Mix -  Production musique -
-- Développement chimique de film argentique + Scan
+  * Audio : Mix -  Production musique -
+  * Développement chimique de film argentique + Scan
 #### Archivage & Diffusion
-- Exports adaptés à l’utilisation : Adobe Media Encoder
-- Sous-titres : Anglais & Français
-- Textes annexes
-- Numérisation et archivage audio
-- Numérisation et archivage vidéo
+  * Exports adaptés à l’utilisation : Adobe Media Encoder
+  * Sous-titres : Anglais & Français
+  * Textes annexes
+  * Numérisation et archivage audio
+  * Numérisation et archivage vidéo
 
 ## Qualités 
   * Créativité
