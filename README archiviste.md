@@ -1,5 +1,5 @@
 # Thomas Cass
-_Archiviste audiovisuel & Technicien audio En Suisse Romande._
+_Videaaste et creatif en Suisse Romande._
 
 <div id="webaddress">
 <a href="mailto:ThomasJosephCass@gmail.com">ThomasJosephCass@gmail.com</a>
@@ -7,7 +7,8 @@ _Archiviste audiovisuel & Technicien audio En Suisse Romande._
 | <a href="https://www.linkedin.com/in/thomas-cass/">LinkedIn</a>|
   <a href="https://vimeo.com/thomascass/">Vimeo</a>
 </div>
-COMPÉTENCES TECHNIQUES
+
+## Compétances techniques
 
 Pré production................................................................................
 - Conception - Développement - Planification - Scout
@@ -23,7 +24,7 @@ Archivage & Diffusion ..........................................................
 - Numérisation et archivage audio
 - Numérisation et archivage vidéo
 
- QUALITÉS
+ ## Qualités 
 - Créativité
 - Orientation solutions
 - Leadership
@@ -31,7 +32,7 @@ Archivage & Diffusion ..........................................................
 - Communication
 - Rapidité d’apprentissage
 
-LOGICIELS
+ ## Logiciels
 Montage
 Premiere Pro - Davinci Resolve
 Son
@@ -41,45 +42,50 @@ Trello - Asana - Studiobinder - Office
 VFX
 After Effects - 3Ds Max
 
-## Expérience
+## Expériences proffesionelles
 
 **Aide Agriculture (Civiliste)** @ [Exploitation Raymond & Philippe Bapst](Chemin de Grange-Neuve 2, Épendes FR), (12/2023)
 Travail manuel sur une ferme laitière.
 
 **Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(03/2021 - 12/2023)_ <br>
 Du travail audiovisuel.
-  - Archivage audiovisuel de 24 cassettes VHS
-  - Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
+  • Archivage audiovisuel de 24 cassettes VHS
+  • Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
 
 **Producteur Vidéo (stage)** @ Foodhack (https://www.foodhack.global/) _(Sept 2020 - Nov 2021)_ <br>
-Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
+• Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
 
 
-**Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(07/2019 - 08/2019)_ <br>Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019.
-	- Barman,
-	- J'ai soutenu les Serveurs pendant les banquets
-	- Replenished les stocks de boissons
+**Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(07/2019 - 08/2019)_ <br>Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019. <br>
+	• Barman <br>
+	• Réapprovisionné des stocks de boissons <br>
+	• J'ai soutenu les serveurs pendant les banquets <br>
 
-    <br><br>
 
 ## 💬 Langages
 
-**Anglais** Langue Maternelle
-**Français** Bilingue
+**Anglais** langue maternelle <br>
+**Français** bilingue
 
 
 ##  Éducation
-<br>
-[Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
-[CPI Frima Formations - **Dessin Technique 3D**](https://frima-formations.ch/) - Fribourg, Suisse _(juillet 2023)_
-Apprentissage des bases la 3D, création des images et vidéos avec 3DS Max et Blender
 
-<br>
 **Bachelor d'Arts** en Digital Media Production *Avec mention : Meilleure moyenne générale*
-<br> [Plymouth College of Art](https://www.plymouthart.ac.uk/) - Plymouth, Devon, Royaume Uni _(2017 - 2020)_
+<br> [Plymouth College of Art](https://www.plymouthart.ac.uk/) - Plymouth, Devon, Royaume Uni _(2017 - 2020)_ <br>
 	• Thèse : Méta analyse de la radicalisation politique sur des plateformes
-	vidéo en ligne.
+	vidéo en ligne. <br>
 	• Apprentissage des flux de travail complets du film, de la télévision et
-	De la production audio.
+	De la production audio. <br>
 	• Développement des compétences en photographie, graphisme et en
-	création de sites Web.
+	création de sites Web. <br>
+
+ 
+ ##  Formation Continue
+
+[Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
+	• Cours de codage de jeux video C# <br>
+	• realisation d'un jeux en equipe <br>
+[CPI Frima Formations - **Dessin Technique 3D**](https://frima-formations.ch/) - Fribourg, Suisse _(juillet 2023)_ <br>
+	Apprentissage des bases la 3D <br> 
+		• 3DS Max <br>
+		• Blender <br>
