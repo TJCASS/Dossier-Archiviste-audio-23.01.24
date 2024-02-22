@@ -52,11 +52,14 @@ création de sites Web. <br>
 
 [Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
   * Cours de codage de C#  <br>
-  * Réalisation d'un jeu en équipe <br>
+  * Réalisation d'un jeu en équipe
+
 [CPI Frima Formations - **Dessin Technique 3D**](https://frima-formations.ch/) - Fribourg, Suisse _(juillet 2023)_ <br>
-  * Apprentissage des bases la 3D <br> 
+  * Apprentissage des bases des vfx en 3D <br> 
     * 3DS Max <br>
     * Blender <br>
+  * Apprentissage de l'utilisation des Imprimantes 3d (resine)
+    
 
   
 ## Compétences techniques
