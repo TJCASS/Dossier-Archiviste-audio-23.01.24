@@ -10,7 +10,7 @@ _Vidéaste et créatif en Suisse romande._
 
 ## Expériences professionnelles
 
-**Aide Agriculture (Civiliste)** @ [Exploitation Raymond & Philippe Bapst](Chemin de Grange-Neuve 2, Épendes FR), (12/2023)
+**Aide Agriculture (Civiliste)** @ Exploitation Raymond & Philippe Bapst (Chemin de Grange-Neuve 2, Épendes FR), (12/2023)
 Travail manuel sur une ferme laitière.
 
 **Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(03/2021 - 12/2023)_ <br>
