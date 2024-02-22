@@ -10,14 +10,14 @@ _Videaaste et creatif en Suisse Romande._
 
 ## Compétances techniques
 
-Pré production................................................................................
+Pré production
 - Conception - Développement - Planification - Scout
-Production AV.................................
+Production AV
 - Prise de son : Boom - Lav - Monitoring - Voice over -Sound Design
-Post Production..............................................................................
+Post Production
 - Audio : Mix -  Production musique -
 - Développement chimique de film argentique + Scan
-Archivage & Diffusion ...........................................................
+Archivage & Diffusion
 - Exports adaptés à l’utilisation : Adobe Media Encoder
 - Sous-titres : Anglais & Français
 - Textes annexes
