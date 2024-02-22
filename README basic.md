@@ -10,7 +10,7 @@ _Vidéaste et créatif en Suisse romande._
 
 ## Expériences professionnelles
 
-**Aide Agriculture (Civiliste)** @ Exploitation Raymond & Philippe Bapst (Chemin de Grange-Neuve 2, Épendes FR), (Decembre 2023)
+**Aide Agriculture (Civiliste)** @ Exploitation Raymond & Philippe Bapst, (Decembre 2023)
 Travail manuel sur une ferme laitière.
 
 **Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(Mars 2021 - Decembre 2023)_ <br>
@@ -18,12 +18,10 @@ Travail manuel sur une ferme laitière.
     * Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
     * Archivage audiovisuel de 24 cassettes VHS
 
-    
 **Producteur Vidéo (stage)** @ [Foodhack](https://www.foodhack.global/) _(Septembre 2020 - Novembre 2021)_ <br>
   * Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
 
-
-**Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(Juillet 2019 - Septembre 2019)_ 
+**Barman (CDD)** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(Juillet 2019 - Septembre 2019)_ 
   * Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019. <br>
     * Barman <br>
     * Réapprovisionné des stocks de boissons
@@ -34,7 +32,6 @@ Travail manuel sur une ferme laitière.
 
 **Anglais** langue maternelle <br>
 **Français** bilingue
-
 
 ##  Éducation
 
@@ -47,7 +44,6 @@ de la production audio. <br>
   * Développement des compétences en photographie, graphisme et en
 création de sites Web. <br>
 
- 
 ##  Formation Continue
 
 [Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
@@ -59,8 +55,6 @@ création de sites Web. <br>
     * 3DS Max <br>
     * Blender <br>
   * Apprentissage de l'utilisation des Imprimantes 3d (resine)
-    
-
   
 ## Compétences techniques
 
