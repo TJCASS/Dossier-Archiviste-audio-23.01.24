@@ -15,17 +15,18 @@ Travail manuel sur une ferme laitière.
 
 **Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(03/2021 - 12/2023)_ <br>
 Du travail audiovisuel.
-• Archivage audiovisuel de 24 cassettes VHS
-• Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
+  * Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
+  * Archivage audiovisuel de 24 cassettes VHS
 
+    
 **Producteur Vidéo (stage)** @ Foodhack (https://www.foodhack.global/) _(Sept 2020 - Nov 2021)_ <br>
-• Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
+  * Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
 
 
 **Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(07/2019 - 08/2019)_ <br>Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019. <br>
-• Barman <br>
-• Réapprovisionné des stocks de boissons <br>
-• J'ai soutenu les serveurs pendant les banquets <br>
+  * Barman <br>
+  * Réapprovisionné des stocks de boissons
+  * J'ai soutenu les serveurs pendant les banquets <br>
 
 
 ## 💬 Langages
@@ -38,23 +39,23 @@ Du travail audiovisuel.
 
 **Bachelor d'Arts** en Digital Media Production *Avec mention : Meilleure moyenne générale*
 <br> [Plymouth College of Art](https://www.plymouthart.ac.uk/) - Plymouth, Devon, Royaume-Uni _(2017 - 2020)_ <br>
-• Thèse : Méta analyse de la radicalisation politique sur des plateformes
+  * Thèse : Méta analyse de la radicalisation politique sur des plateformes
 vidéo en ligne. <br>
-• Apprentissage des flux de travail complets du film, de la télévision et
+  * Apprentissage des flux de travail complets du film, de la télévision et
 de la production audio. <br>
-• Développement des compétences en photographie, graphisme et en
+  * Développement des compétences en photographie, graphisme et en
 création de sites Web. <br>
 
  
 ##  Formation Continue
 
 [Swiss Game Academy](https://gameacademy.ch/SGA/) - Fribourg, Suisse _(juillet 2023)_ <br>
-• Cours de codage de C#  <br>
-• Réalisation d'un jeu en équipe <br>
+  * Cours de codage de C#  <br>
+  * Réalisation d'un jeu en équipe <br>
 [CPI Frima Formations - **Dessin Technique 3D**](https://frima-formations.ch/) - Fribourg, Suisse _(juillet 2023)_ <br>
-Apprentissage des bases la 3D <br> 
-• 3DS Max <br>
-• Blender <br>
+  * Apprentissage des bases la 3D <br> 
+    * 3DS Max <br>
+    * Blender <br>
 
   
 ## Compétences techniques
@@ -74,12 +75,12 @@ Apprentissage des bases la 3D <br>
 - Numérisation et archivage vidéo
 
 ## Qualités 
-- Créativité
-- Orientation solutions
-- Leadership
-- Esprit d’équipe
-- Communication
-- Rapidité d’apprentissage
+  * Créativité
+  * Orientation solutions
+  * Leadership
+  * Esprit d’équipe
+  * Communication
+  * Rapidité d’apprentissage
 
 ## Logiciels
 #### Montage
