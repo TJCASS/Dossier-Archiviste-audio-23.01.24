@@ -10,23 +10,24 @@ _Vidéaste et créatif en Suisse romande._
 
 ## Expériences professionnelles
 
-**Aide Agriculture (Civiliste)** @ Exploitation Raymond & Philippe Bapst (Chemin de Grange-Neuve 2, Épendes FR), (12/2023)
+**Aide Agriculture (Civiliste)** @ Exploitation Raymond & Philippe Bapst (Chemin de Grange-Neuve 2, Épendes FR), (Decembre 2023)
 Travail manuel sur une ferme laitière.
 
-**Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(03/2021 - 12/2023)_ <br>
-Du travail audiovisuel.
-  * Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
-  * Archivage audiovisuel de 24 cassettes VHS
+**Interactive Media Designer (CDD)** @ [Grangenuve](https://www.fr.ch/grangeneuve/) _(Mars 2021 - Decembre 2023)_ <br>
+  * Du travail audiovisuel.
+    * Réalisation de documentaires de court métrages pour la formation continue de l’agriculture durable
+    * Archivage audiovisuel de 24 cassettes VHS
 
     
-**Producteur Vidéo (stage)** @ Foodhack (https://www.foodhack.global/) _(Sept 2020 - Nov 2021)_ <br>
+**Producteur Vidéo (stage)** @ [Foodhack](https://www.foodhack.global/) _(Septembre 2020 - Novembre 2021)_ <br>
   * Réalisateur, rédacteur et compositeur pour le court métrage “the Foodhack manifesto” pour Foodhack Global.
 
 
-**Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(07/2019 - 08/2019)_ <br>Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019. <br>
-  * Barman <br>
-  * Réapprovisionné des stocks de boissons
-  * J'ai soutenu les serveurs pendant les banquets <br>
+**Barman** @ [Hôtels la Barrière](https://www.hotelsbarriere.com/fr.html) _(Juillet 2019 - Septembre 2019)_ 
+  * Travail d'été au restaurant pop-up du Casino la Barrière du Fête des Vignerons 2019. <br>
+    * Barman <br>
+    * Réapprovisionné des stocks de boissons
+    * J'ai soutenu les serveurs pendant les banquets <br>
 
 
 ## 💬 Langages
